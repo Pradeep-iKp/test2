@@ -4,7 +4,7 @@ services:
     name: test2
     env: python
     buildCommand: pip install -r requirements.txt
-    startCommand: python bot.py
+    startCommand: python3 bot.py
     repo: https://github.com/Pradeep-iKp/test2.git      
     branch: main
     envVars:

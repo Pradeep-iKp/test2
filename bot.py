@@ -47,7 +47,7 @@ if STRING:
 else:
     bot.run()
 
-tbot.start(bot_token=BOT_TOKEN)
+tbot.start(bot_token=TOKEN)
 
 print("tbot started")
 
